@@ -1,4 +1,6 @@
-﻿namespace integracaogithub
+﻿using System.Drawing.Text;
+
+namespace integracaogithub
 {
     partial class Form1
     {
@@ -59,6 +61,7 @@
         private void Integracao()
         {
             //integracao
+            private string titulo = "oi";
         }
     }
 }
